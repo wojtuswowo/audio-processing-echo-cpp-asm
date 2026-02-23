@@ -97,7 +97,7 @@ Key optimizations:
 - Multi-threading improves performance up to CPU core saturation
 - For small files, thread overhead reduces relative gains
 
-Time complexity grows approximately linearly with input size.
+Execution time decreases significantly with the number of threads, approaching a near-constant minimum value after approximately 10–20 threads, with the assembler version consistently achieving 5–10× lower latency than the C++ version across the entire range.
 
 ![Main Menu](assets/times.png)
 
