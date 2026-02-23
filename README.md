@@ -16,6 +16,11 @@ The goal of the project was to analyze the impact of:
 
 The application includes a Windows Forms GUI written in C# and a high-performance processing DLL implemented in C/C++ and Assembly.
 
+## Preview
+
+<!-- SCREEN: Main Menu -->
+![Main Menu](assets/main-menu.png)
+
 ---
 
 ## Features
@@ -93,6 +98,8 @@ Key optimizations:
 - For small files, thread overhead reduces relative gains
 
 Time complexity grows approximately linearly with input size.
+
+![Main Menu](assets/times.png)
 
 ---
 
