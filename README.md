@@ -1,5 +1,11 @@
 # Audio Echo Effect – C/C++ vs x64 Assembly (SIMD) Performance Comparison
 
+[![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)](https://learn.microsoft.com/en-us/dotnet/csharp/) 
+[![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://isocpp.org/) 
+[![x86-64 ASM](https://img.shields.io/badge/x86--64_Assembly-8A2BE2?style=for-the-badge&logo=assembly&logoColor=white)](https://en.wikipedia.org/wiki/X86-64) 
+[![SIMD](https://img.shields.io/badge/SIMD-FF4500?style=for-the-badge)](https://en.wikipedia.org/wiki/SIMD) 
+[![Windows Forms](https://img.shields.io/badge/Windows_Forms-0078D7?style=for-the-badge&logo=windows&logoColor=white)](https://learn.microsoft.com/en-us/dotnet/desktop/winforms/) 
+
 ## Project Overview
 
 This project implements a digital **audio echo effect** for 16-bit WAV files and compares performance between:
